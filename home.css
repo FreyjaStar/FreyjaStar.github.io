@@ -1,0 +1,15 @@
+/* CSS样式表文件 (styles.css) */
+.background-image {
+    /* 设置背景图片 */
+    background-color: #22272E;
+    background-image: url('./images/Home-background.png');
+    /* 设置背景图片重复方式 */
+    background-repeat: no-repeat;
+    /* 设置背景图片位置 */
+    background-position: center;
+    /* 设置背景图片大小 */
+    background-size: cover;
+    /* 设置元素高度和宽度 */
+    width: 100%;
+    height: 100vh;
+}
